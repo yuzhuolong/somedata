@@ -1,0 +1,108 @@
+import math
+import os
+
+rootdir = "E:\mypaper\data\dtw"
+list_dirs = os.walk(rootdir)
+out_str_diff = os.path.join(rootdir, 'DTW_diff.txt')
+file_out_diff = open(out_str_diff, 'w')
+out_str_same = os.path.join(rootdir, 'DTW_same.txt')
+file_out_same = open(out_str_same, 'w')
+for root, dirs, files in list_dirs:
+	for d in dirs:
+		print os.path.join(root, d)
+	for f in files:
+		if ('.csv' in f) and ('_i4' in f) and ('_cut' in f) and not('_chuli' in f):
+			if ('_diff' in f):
+				file_out = file_out_diff
+			else:
+				file_out = file_out_same
+			f_prefix = f.split('.csv')
+			cut_name = f_prefix[0] + '.txt'
+			f_i4_split = f.split('_i4')
+			i6_name = f_i4_split[0] + '_i6' + f_i4_split[1]
+			
+			in_str_i4 = os.path.join(rootdir, f)
+			in_str_i6 = os.path.join(rootdir, i6_name)
+			file_out.writelines('DTW result of '+in_str_i4+' and '+in_str_i6+'\n')
+			file_in_i4 = open(in_str_i4, 'r')
+			file_in_i6 = open(in_str_i6, 'r')
+			#lines_all_i4 = file_in_i4.readlines()
+			#lines_all_i6 = file_in_i6.readlines()
+			i = 0
+			j = 0
+			k = 0
+			f_i4 = [[0 for i in range(6)]  for j in range(2000)]
+			#print f_i4[2][3]
+			f_i6 = [[0 for i in range(6)]  for j in range(2000)]
+			f_dtw = [[[0 for i in range(6)]  for j in range(2000)]   for k in range(2000)]
+			distance = [[[0 for i in range(6)]  for j in range(2000)]   for k in range(2000)]
+			i = 0
+			for line_i4 in file_in_i4:
+				data = line_i4.split(',')
+				
+				for j in range(6):
+					f_i4[i][j] = float(data[j])
+				if (i == 0):
+					time_i4 = long(data[12])
+					time_i6 = time_i4
+				i = i + 1
+			linenum_i4 = i
+			i = 0
+			flag = 0
+			for line_i6 in file_in_i6:
+				data = line_i6.split(',')
+				current_time_i6 = long(data[12])
+				if abs(current_time_i6 - time_i6) <= 10:
+					flag = 1
+					print current_time_i6
+				if flag == 0:
+					continue
+				for j in range(6):
+					f_i6[i][j] = float(data[j])
+				i = i + 1
+				if i == linenum_i4+30:
+					break
+			linenum_i6 = i
+			
+			for k in range(6):
+				for i in range(linenum_i4):
+					for j in range(linenum_i6):
+						distance[i][j][k] = (f_i4[i][k] - f_i6[j][k]) * (f_i4[i][k] - f_i6[j][k])
+			
+			for k in range(6):
+				f_dtw[0][0][k] = distance[0][0][k]
+			
+				for i in range(1, linenum_i4, 1):
+					f_dtw[i][0][k] = f_dtw[i-1][0][k] + distance[i][0][k]
+				for j in range(1, linenum_i6, 1):
+					f_dtw[0][j][k] = f_dtw[0][j-1][k] + distance[0][j][k]
+				for i in range(1,linenum_i4, 1):
+					for j in range(1,linenum_i6,1):
+						f_dtw[i][j][k] = min([f_dtw[i][j-1][k], f_dtw[i-1][j][k], f_dtw[i-1][j-1][k]]) + distance[i][j][k]
+			for k in range(6):	
+				file_out.writelines(str(f_dtw[linenum_i4-1][linenum_i6-1][k])+'\n')
+			file_in_i4.close()
+			file_in_i6.close()
+			file_out.writelines('\n')
+			#count = 0
+			#gyroX_max = 5
+			#count_max = 0
+			#for line_in in lines_all:
+				#count = count + 1
+				#if count >= 500:
+				#	data_in = line_in.split(',')
+			#		gyroX = float(data_in[5])
+		#			if  gyroX < gyroX_max:
+			#			count_max = count
+			#			gyroX_max = gyroX
+			#left_margin = count_max - 60
+			#right_margin = count_max + 59
+			#count = 0
+			#for line_in in lines_all:
+			#	count = count + 1
+			#	if (count >=left_margin) and (count <= right_margin):
+			#		file_out.writelines(line_in)
+			#file_in.close()
+			#file_out.close()
+file_out_diff.close()	
+file_out_same.close()			

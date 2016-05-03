@@ -1,0 +1,18 @@
+% Label data recorded with 'snsrlog'
+% 
+% 
+% Label description:
+% 	 0: Default Label
+% 	 1: still_drop
+% 	 2: walk_drop
+% 	 3: other
+% 	 4: dtw_same
+% 	 5: dtw_diff
+% 	 6: delete
+% 
+% Column description:
+% 	 1: Seconds.milliseconds since 1970
+% 	 2: Label used for the current sample
+% 
+% 
+1462090926.746	 -1

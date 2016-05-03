@@ -1,0 +1,24 @@
+DTW result of E:\mypaper\data\dtw\dtw_same_i41_cut.csv and E:\mypaper\data\dtw\dtw_same_i61_cut.csv
+972.999328856
+95.7861570545
+216.100669102
+2.08965482502
+31.7996796131
+0.504872095682
+
+DTW result of E:\mypaper\data\dtw\dtw_same_i42_cut.csv and E:\mypaper\data\dtw\dtw_same_i62_cut.csv
+1399.25991806
+39.0222187097
+568.604818431
+1.37627566483
+43.829608061
+1.9694576305
+
+DTW result of E:\mypaper\data\dtw\dtw_same_i43_cut.csv and E:\mypaper\data\dtw\dtw_same_i63_cut.csv
+514.695128251
+144.563433483
+74.0418397491
+0.690186294805
+24.4672220719
+14.0297318573
+

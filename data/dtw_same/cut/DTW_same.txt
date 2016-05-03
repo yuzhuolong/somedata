@@ -1,0 +1,152 @@
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i410_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i610_cut.csv
+216.733947739
+14.2258373735
+58.5397887129
+1.61367998126
+6.26003264025
+0.463463444063
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i411_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i611_cut.csv
+325.926004333
+33.118403462
+17.1367621306
+2.20946133699
+5.69702890378
+0.355067418177
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i412_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i612_cut.csv
+285.63562797
+25.4019810337
+21.4583843506
+0.509518678535
+11.4103122217
+0.604889652929
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i413_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i613_cut.csv
+387.244717701
+24.6522997423
+54.5721416168
+1.52107200613
+17.3549924731
+0.814141296545
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i414_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i614_cut.csv
+61.5975367711
+2.51624052225
+258.692181317
+1.24197212169
+9.15220373368
+1.0570231167
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i415_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i615_cut.csv
+202.903591874
+6.83988601825
+81.5926620536
+1.28200620385
+18.3870161437
+1.25184788628
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i416_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i616_cut.csv
+357.575795309
+27.2373843894
+59.7939705536
+0.237279769637
+9.49573279109
+0.374255542193
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i417_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i617_cut.csv
+37.6293340774
+11.7622868858
+14.7333575861
+0.847946738883
+0.506635135693
+0.56231148136
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i418_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i618_cut.csv
+36.7073392528
+8.29337539298
+36.0832036227
+0.452070923963
+0.718936035443
+0.956170773241
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i419_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i619_cut.csv
+42.0722295142
+5.11040438859
+13.694926807
+0.391275383875
+0.557114775848
+0.288258479871
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i41_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i61_cut.csv
+468.736772523
+17.7743481182
+64.0257061743
+0.581581887116
+21.2212230575
+0.482825522386
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i42_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i62_cut.csv
+394.14981779
+53.291799088
+51.4863737901
+3.05559797251
+28.5791824411
+2.46404045422
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i43_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i63_cut.csv
+236.623454306
+53.1434820635
+46.8155911557
+6.60818664726
+14.0884772847
+0.912604029401
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i44_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i64_cut.csv
+107.125636147
+24.2858721672
+32.300851321
+1.5690507926
+7.03132322354
+0.26872003361
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i45_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i65_cut.csv
+284.329389039
+51.636686352
+24.1598894144
+0.720354444791
+3.37529586522
+0.338480714815
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i46_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i66_cut.csv
+359.431346972
+14.5466725915
+32.6487643431
+0.333460989624
+12.1193589306
+0.758086721548
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i47_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i67_cut.csv
+135.477437785
+19.6819340697
+16.3698619263
+1.64188233931
+5.13062815436
+1.92219452201
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i48_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i68_cut.csv
+231.856275785
+15.1641748145
+114.807257987
+5.05241258865
+5.8113070071
+1.00770947959
+
+DTW result of E:\mypaper\data\dtw_same\cut\dtw_same_i49_cut.csv and E:\mypaper\data\dtw_same\cut\dtw_same_i69_cut.csv
+201.650126839
+31.2326429269
+90.4859873458
+2.4502719356
+23.7564100658
+1.39758972618
+

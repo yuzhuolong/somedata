@@ -1,0 +1,528 @@
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_1.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_1.csv
+33027.1962924
+24600.3430967
+8566.80729977
+875.907317331
+459.46800206
+4789.90780347
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_10.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_10.csv
+3411.56854322
+1995.8980756
+1594.37499826
+675.419108619
+262.573937902
+748.442705009
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_11.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_11.csv
+8398.00616074
+6569.42556892
+4922.17509123
+741.643761197
+234.41645297
+2133.80437347
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_12.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_12.csv
+18684.2441711
+5024.41000192
+14357.0783339
+774.741567057
+2564.13684667
+1854.55195702
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_13.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_13.csv
+21022.8097687
+4619.12384646
+76169.9617379
+145.4162449
+385.60559697
+1782.29122903
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_14.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_14.csv
+34262.666959
+6043.2130726
+72511.0741765
+226.424080233
+475.830564776
+1745.73932373
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_15.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_15.csv
+39104.4527723
+6699.37084795
+74500.2066926
+210.091892166
+607.513994767
+1900.42204182
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_16.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_16.csv
+15386.7060404
+3987.74850285
+48382.1773676
+388.84579919
+123.947790399
+521.095786311
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_17.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_17.csv
+18681.946907
+3650.29171795
+92464.5201928
+1475.03649086
+562.764913713
+1391.10617418
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_18.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_18.csv
+16430.4563019
+5221.14387738
+102604.537539
+1125.09903176
+546.597213785
+878.269445587
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_19.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_19.csv
+7946.37391549
+12846.1057783
+85508.6676251
+588.782512261
+212.884666985
+194.368762417
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_2.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_2.csv
+39230.4736223
+16463.5989956
+13455.4935032
+511.75161861
+91.758490851
+5121.84028891
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_20.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_20.csv
+11810.4511915
+5420.13690053
+103792.90822
+1541.73479944
+313.317622083
+1053.9642014
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_21.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_21.csv
+18512.8029146
+1030.43348376
+79871.1643137
+255.019827165
+258.550901686
+925.061363318
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_22.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_22.csv
+17598.6423366
+8837.87910677
+67994.1378972
+458.229734414
+806.02634912
+1495.40442238
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_23.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_23.csv
+29635.8695311
+24171.2059334
+6900.73746379
+641.837285469
+509.882026893
+4869.63094455
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_24.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_24.csv
+29121.692517
+11630.5641999
+4713.13260561
+539.373219583
+692.129832444
+3523.31082169
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_25.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_25.csv
+16330.8712432
+7005.94786719
+4415.37092746
+560.200277348
+746.461078593
+3800.31835143
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_3.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_3.csv
+35937.6542762
+12115.9202426
+10909.8212722
+433.198809491
+133.881666555
+3834.68375572
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_4.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_4.csv
+19235.8468977
+5478.3135462
+6989.66615915
+720.107185103
+273.839233744
+1227.92268336
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_5.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_5.csv
+29411.3381169
+5118.98604348
+8549.9234867
+457.524905015
+147.383377413
+3483.86551069
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_6.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_6.csv
+28994.5438751
+4247.88501907
+5449.35898362
+118.357400495
+93.5859206369
+1643.14156233
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_7.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_7.csv
+20364.0076876
+6519.44321187
+5544.39006529
+277.991310251
+114.49317046
+6273.95040256
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_8.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_8.csv
+20186.4096443
+3571.00651111
+5559.16104308
+284.262335109
+72.8414691407
+2869.88373872
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i41_cut_9.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i61_cut_9.csv
+15255.9807528
+3245.04345081
+5678.52964157
+1133.20275183
+141.694506915
+1730.54269906
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_1.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_1.csv
+29165.7981775
+1224.80327673
+8714.91749816
+283.821561825
+228.884117204
+1931.92405171
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_10.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_10.csv
+14319.0338145
+9198.98938106
+5019.30670602
+1298.37989334
+2114.52539118
+3019.90430491
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_11.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_11.csv
+26246.0583247
+1999.27522071
+2411.39795365
+29.342055675
+32.0300509301
+641.080171996
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_12.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_12.csv
+11993.409575
+3353.31607529
+2157.5716418
+71.942137636
+42.0135855483
+269.69234786
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_13.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_13.csv
+24201.705802
+6984.9309779
+4136.83794286
+308.821289481
+192.428863492
+188.884713619
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_14.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_14.csv
+18453.3254307
+2135.83695119
+2804.75694356
+57.4476721464
+157.076256459
+718.087742572
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_15.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_15.csv
+15579.2377716
+3360.28173398
+2265.4682148
+171.356332843
+79.8789845933
+564.594235007
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_2.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_2.csv
+28960.1850737
+3911.83657709
+18950.9267781
+726.212483954
+355.154297051
+2766.74849862
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_3.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_3.csv
+26725.8214849
+2778.34793871
+860.297344953
+426.555979247
+93.3730675376
+1178.89184933
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_4.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_4.csv
+22902.8316812
+3230.11784245
+1295.20567565
+247.21678434
+98.7535960439
+542.232138081
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_5.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_5.csv
+15053.6850058
+4803.85954236
+3160.10149017
+166.432022539
+63.8903340427
+532.179251242
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_6.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_6.csv
+19724.117399
+7929.0346437
+635.500153343
+535.255403924
+45.7924507589
+276.90298953
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_7.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_7.csv
+15175.1973193
+6129.44323851
+6385.94387572
+231.232018679
+141.382385961
+409.453563036
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_8.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_8.csv
+14037.8178299
+5429.05484615
+2274.7477777
+369.189375073
+81.3222586253
+1001.74997763
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i42_cut_9.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i62_cut_9.csv
+10792.9890102
+4450.75523301
+10138.9842857
+2466.99683151
+1494.27622107
+3156.07347212
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i44_cut_1.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i64_cut_1.csv
+14935.2446228
+18775.8455106
+10140.1135029
+2361.84465222
+342.806127217
+642.875534417
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i44_cut_2.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i64_cut_2.csv
+6894.21422814
+7997.16944003
+2461.50414673
+570.656649918
+78.2819785165
+680.852662124
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i45_cut_1.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i65_cut_1.csv
+514.698275408
+2897.95730315
+12320.460104
+1213.77650954
+157.15470562
+521.276223244
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i45_cut_10.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i65_cut_10.csv
+20684.5310813
+7141.38568015
+5318.37050343
+595.296090189
+656.638679691
+2727.66696369
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i45_cut_2.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i65_cut_2.csv
+1559.33506008
+1296.83989269
+3044.05965144
+2061.44340408
+223.920634377
+423.479818182
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i45_cut_3.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i65_cut_3.csv
+1966.81397987
+1515.23234647
+5689.11321138
+1154.15075656
+38.1101101381
+499.068706285
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i45_cut_4.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i65_cut_4.csv
+616.907390162
+3011.66383058
+6856.7279647
+1678.64583112
+82.6914621793
+297.39359714
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i45_cut_5.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i65_cut_5.csv
+1112.1021244
+4456.71061609
+5528.65967734
+1341.90300993
+111.100795388
+224.447640709
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i45_cut_6.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i65_cut_6.csv
+8905.58742732
+3160.66319215
+6520.49794408
+1648.70931105
+330.632317406
+852.332634808
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i45_cut_7.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i65_cut_7.csv
+16528.5133535
+4401.99372814
+8128.21448249
+354.390155107
+463.956187853
+6254.04722819
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i45_cut_8.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i65_cut_8.csv
+13977.0628969
+7181.4952523
+15497.9522265
+540.993604328
+337.047798497
+4222.74385163
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i45_cut_9.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i65_cut_9.csv
+40063.626444
+12794.7311187
+6670.91765221
+808.068070826
+233.637865349
+8677.91956042
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i46_cut_1.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i66_cut_1.csv
+14840.8188189
+7466.69060499
+6819.92960419
+278.379039392
+572.214263106
+1266.81907733
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i46_cut_2.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i66_cut_2.csv
+18653.8757225
+13408.9220608
+15430.4935705
+150.185501072
+237.717110746
+1737.8234514
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i46_cut_3.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i66_cut_3.csv
+21627.5805303
+11723.93327
+12997.5511635
+159.585480614
+381.760414799
+1264.62223998
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i46_cut_4.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i66_cut_4.csv
+12905.981189
+12932.8531751
+13852.2825056
+29.1134239017
+224.100586729
+1083.42795547
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i46_cut_5.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i66_cut_5.csv
+17094.0191083
+9423.59451087
+13576.7295009
+250.057422623
+762.497186002
+760.581453299
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i46_cut_6.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i66_cut_6.csv
+17521.1477437
+13316.2530396
+13866.5441679
+124.426004665
+215.672061438
+1509.87773946
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i46_cut_7.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i66_cut_7.csv
+20964.0734747
+11343.3382972
+14742.9849007
+169.285619488
+299.237770396
+1211.80130654
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i47_cut_1.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i67_cut_1.csv
+7865.05337883
+13144.6155379
+23734.3593037
+104.585069185
+473.014371589
+416.052351491
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i47_cut_2.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i67_cut_2.csv
+1416.4241487
+22497.7777474
+32486.8662764
+355.184043355
+388.340687611
+124.496347373
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i47_cut_3.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i67_cut_3.csv
+1471.12984591
+22291.2006644
+27449.0960304
+397.843069916
+434.676972097
+90.4237726962
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i47_cut_4.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i67_cut_4.csv
+995.380589186
+20869.6198897
+28289.4495239
+172.82432696
+487.308252917
+104.412109677
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i47_cut_5.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i67_cut_5.csv
+1305.44038721
+22090.724095
+25245.6231684
+295.426979415
+412.281000453
+27.1189236846
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i47_cut_6.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i67_cut_6.csv
+1339.4376554
+20131.9856584
+29364.9202005
+357.00836491
+282.035840686
+22.749928465
+
+DTW result of E:\mypaper\data\dtw_diff\cut\dtw_diff_i47_cut_7.csv and E:\mypaper\data\dtw_diff\cut\dtw_diff_i67_cut_7.csv
+4306.19501928
+15137.9275342
+25844.4441903
+254.670594941
+414.77665775
+550.357126615
+
