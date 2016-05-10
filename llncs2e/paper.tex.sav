@@ -1,0 +1,78 @@
+\documentclass{llncs}
+\usepackage{graphicx}
+\begin{document}
+  \title{A Method to Protect the Security of Your Smart-phone}
+  \author{Yu Zhuolong\inst{1} \and Guo Hansong\inst{2}}
+  \institute{University of Science and Technology of China}
+  \maketitle
+  %
+  \begin{abstract}
+    %As utility of smart-phone arises, the security of smart-phone has become a serious problem.\\
+    Losing smart-phones has become a troublesome thing as smart-phones are playing an important role in our daily lives. As smartwatches become popular, we argue that smartwatches can play a role in smart-phone anti-theft design. In this paper, we propose a real-time antitheft system that leverages accelerometers and gyroscopes of smart-phones and smartwatches to prevent smart-phone from stolen. As opposed to existing solutions which are based on Bluetooth, NFC, or GPS tracking, our proposed system follows a practical manner to achieve the goal of real-time antitheft for smart-phones. Our system recognizes token-out events of smart-phones using a supervised classifier, and apply a dynamic time warping(DTW) scheme to recognize whether the events are caused by users themselves. We conduct a series of experiments on iPhone6 and iPhone4, and the evaluation results show that our system can achieve XX.X\% true positive rate and XX.X\% false positive rate.
+    \keywords{Antitheft, Smart-phone, Smart wearable device, Pattern Recognition, Supervised Classification.}
+  \end{abstract}
+  %
+  \section{Introduction}
+  Smart-phones have now become very ubiquitous and of critical importance in our daily lives. As smart-phones are always storing lots of important personal information, the security of smart-phones is getting more and more attention. Security of smart-phones includes hardware security(avoid phones being stolen or crashed) and software security(avoid harm causing by virus or information leakage). Meanwhile, the majority of smart-phones and smartwatches contain accelerometers and gyroscopes to sense a user's movements. Sensor-based activity recognition has been studied extensively, especially for smart-phones[1,2,3]. 
+      In this paper, we focus on the antitheft problem of smart-phones.
+  %
+  \section{Fixed-Period Problems: The Sublinear Case}
+  %
+  With this chapter, the preliminaries are over, and we begin the search for periodic solutions \dots
+  %
+  \subsection{Autonomous Systems}
+  %
+  In this section we will consider the case when the Hamiltonian $H(x)$ \dots
+  %
+  \subsubsection{The General Case: Nontriviality.}
+  %
+  We assume that $H$ is
+  $\left(A_{\infty}, B_{\infty}\right)$-subqua\-dra\-tic at infinity, for some constant \dots
+  %
+  \paragraph{Notes and Comments.}
+  The first results on subharmonics were \dots
+  %
+  \begin{proposition}
+    Assume $H'(0)=0$ and $ H(0)=0$. Set \dots
+  \end{proposition}
+
+ 
+  \begin{proof}[of proposition]
+    Condition (8) means that, for every \LaTeX $\delta'>\delta$, the some $\varepsilon>0$ such that \dots \qed
+  \end{proof}
+  %
+  \begin{example}[\rmfamily (External forcing)]
+    Consider the system \dots
+  \end{example}
+
+
+  \begin{corollary}
+    Assume $H$ is $C^{2}$ end
+    $\left(a_{\infty}, b_{\infty}\right)$-subquadratic at infinity. Let \dots
+  \end{corollary}
+  \begin{lemma}
+    Assume that $H$ is $C^{2}$ on $\bbbr^{2n}\backslash \{0\}$ and that $H''(x)$ is \cite{clar:eke}\dots
+  \end{lemma}
+  \begin{theorem}[Ghoussoub-Preiss]
+    Let $X$ be a Banach Space and $\Phi:X\to\bbbr$ \dots
+  \end{theorem}
+
+  \begin{definition}
+    We shall say that a $C^{1}$ function \footnote{The footnote is automatically numbered.} $\Phi:X\to\bbbr$ satisfies \dots
+  \end{definition}
+
+  \begin{thebibliography}{1}
+    \bibitem{clar:eke}
+    Clarke, F., Ekeland, I.:
+    Nonlinear oscillations and  boundary-value problems for Hamiltonian systems
+    Arch. Rat. Mech. Anal. 78, 315--333(1982)
+    \bibitem{}
+    
+  \end{thebibliography}
+  %\begin{equation}
+    %\left(\frac{a^{2} + b^{2}}{c^{3}} \right) = 1 \quad
+    %\mbox{ if } c\neq 0 \mbox{ and if | a,b,c\in \bbbr \enspace
+
+  %\end{equation}
+
+\end{document}
