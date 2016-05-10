@@ -1,33 +1,14 @@
 \documentclass{llncs}
-\usepackage{graphicx}
+
 \begin{document}
-  \title{ABC: A Method to Protect the Security of Your Smart-phone}
+  \title{A Method to Protect the Security of Your Smart-phone}
   \author{Yu Zhuolong\inst{1} \and Guo Hansong\inst{2}}
   \institute{University of Science and Technology of China}
   \maketitle
   %
   \begin{abstract}
-    %As utility of smart-phone arises, the security of smart-phone has become a serious problem.\\
-    Losing smart-phones has become a troublesome thing as smart-phones are playing an important role in our daily lives. As smartwatches become popular, we argue that smartwatches can play a role in smart-phone anti-theft design. In this paper, we propose ABC, a real-time antitheft system that leverages accelerometers and gyroscopes of smart-phones and smartwatches to prevent smart-phone from stolen. As opposed to existing solutions which are based on Bluetooth, NFC, or GPS tracking, ABC follows a practical manner to achieve the goal of real-time antitheft for smart-phones. ABC recognizes token-out events of smart-phones using a supervised classifier, and apply a dynamic time warping(DTW) scheme to recognize whether the events are caused by users themselves. We conduct a series of experiments on iPhone6 and iPhone4, and the evaluation results show that our system can achieve XX.X\% true positive rate and XX.X\% false positive rate.
-    \keywords{Antitheft, Smart-phone, Smart wearable device, Pattern Recognition, Supervised Classification.}
+    As utility of smart-phone arises, the security of smart-phone has become a.
   \end{abstract}
-  %
-  \section{Introduction}
-  Smart-phones have now become very ubiquitous and of critical importance in our daily lives. 
-  As smart-phones are always storing lots of important personal information(even including credit cards), the security of smart-phones is getting more and more attention.
-  A survey of smart-phone theft victims conducted by IDG Research\cite{lookout} shows that 1 in 10 U.S. smart-phone owners are victims of phone theft. In 2014, 2.1 million American consumers were victims of smart-phone theft.
-  Smart-phone producers have also brought out some solutions to smart-phone theft\cite{shaun:jen}, such as "Find My iPhone" of Apple and "Android Device Manager" of Android.
-  % 都是stolen之后的
-  Nonetheless, these approaches including password mechanism and fingerprint identification are effective only after the crime, despite the Psychological influence(give up stealing) on criminals.
-  % 有用蓝牙 NFC 来防盗的，但是不好
-  Besides, Bluetooth technology are also employed for antitheft design before, in order to detect the crime when crime happening.
-  But since Bluetooth can detect the crime only after criminal gets about 6\wave10 meters away(can be too late), both Bluetooth is not very effective in this scenario.
-  %Security of smart-phones includes hardware security(avoid phones being stolen or crashed) and software security(avoid harm causing by virus or information leakage). 
-  Meanwhile, the majority of smart-phones and smartwatches contain abundant advanced built-in sensors to sense a user's movements. 
-  Sensor-based activity recognition has been studied extensively, especially for smart-phones\cite{hansong:liusheng,gary:jessica}. 
-  These researches focus on multiple fields, including healthcare[1~4], localization[5] and human computer interaction[6~9], but the field of smart-phone antitheft has been paid little attention. 
-  
-      In this paper, we focus on the antitheft problem of smart-phones, and propose ABC, a system employing sensor devices on smart-phones and smart-watches to guard smart-phones from being stolen.  
   %
   \section{Fixed-Period Problems: The Sublinear Case}
   %
@@ -48,57 +29,36 @@
   \begin{proposition}
     Assume $H'(0)=0$ and $ H(0)=0$. Set \dots
   \end{proposition}
-
- 
   \begin{proof}[of proposition]
-    Condition (8) means that, for every \LaTeX $\delta'>\delta$, the some $\varepsilon>0$ such that \dots \qed
+    Condition (8) means that, for every $\delta'>\delta$, the some $\varepsilon>0$ such that \dots \qed
   \end{proof}
   %
   \begin{example}[\rmfamily (External forcing)]
     Consider the system \dots
   \end{example}
-
-
+  \begin{figure}
+    \vspace{2.5cm}
+    \includegraphics{12.eps}
+    \caption[12.eps]{This is a figure.}
+  \end{figure}
   \begin{corollary}
     Assume $H$ is $C^{2}$ end
     $\left(a_{\infty}, b_{\infty}\right)$-subquadratic at infinity. Let \dots
   \end{corollary}
   \begin{lemma}
-    Assume that $H$ is $C^{2}$ on $\bbbr^{2n}\backslash \{0\}$ and that $H''(x)$ is \cite{clar:eke}\dots
+    Assume that $H$ is $C^{2}$ on $\bbbr^{2n}\backslash \{0\}$ and that $H''(x)$ is \dots
   \end{lemma}
   \begin{theorem}[Ghoussoub-Preiss]
     Let $X$ be a Banach Space and $\Phi:X\to\bbbr$ \dots
   \end{theorem}
-
+  
   \begin{definition}
     We shall say that a $C^{1}$ function \footnote{The footnote is automatically numbered.} $\Phi:X\to\bbbr$ satisfies \dots
   \end{definition}
-
-  \begin{thebibliography}{1}
-    \bibitem{lookout}
-    Lookout, https://www.lookout.com/resources/reports/
-    \bibitem{shaun:jen}
-    Shaun Whitehead, Jen Mailley, Ian Storer, John McCardle, George Torrens, Graham Farrell:
-    IN SAFE HANDS: A Review of Mobile Phone Anti-theft Designs
-    European Journal on Criminal Policy and Research
-    March 2008, Volume 14, Issue 1, pp 39-60
-    \bibitem{clar:eke}
-    Clarke, F., Ekeland, I.:
-    Nonlinear oscillations and  boundary-value problems for Hamiltonian systems
-    Arch. Rat. Mech. Anal. 78, 315--333(1982)
-    \bibitem{hansong:liusheng}
-    Hansong Guo, Liusheng Huang, He Huang:
-    Guardian Angel: A Smartphone Based Personal Security System for Emergency Alerting
-    The 12th IEEE International Conference on Ubiquitous Intelligence and Computing(2015)
-    \bibitem{gary:jessica}
-    Gary M. Weiss, Jessica L. Timko, Catherine M. Gallagher, Kenichi Yoneda, and Andrew J. Schreiber:
-    Smartwatch-based Activity Recognition: A Machine Learning Approach
-    IEEE-EMBS International Conference on Biomedical and Health Informatics(2016)
-  \end{thebibliography}
   %\begin{equation}
     %\left(\frac{a^{2} + b^{2}}{c^{3}} \right) = 1 \quad
     %\mbox{ if } c\neq 0 \mbox{ and if | a,b,c\in \bbbr \enspace
-
+    
   %\end{equation}
-
+  
 \end{document}
