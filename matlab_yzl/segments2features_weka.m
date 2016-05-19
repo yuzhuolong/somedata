@@ -54,7 +54,7 @@ featuerscell={};
 if nargin==2
     filename=strcat(inputname(1),'_features_yzl.arff');
 else
-    filename=strcat('featuresset_yzl','.arff');
+    filename=strcat('featuresset_yzl_afterDelete','.arff');
 end
 fid=fopen(filename,'wt');
 %% Ìî³äWekaÎÄ¼şÍ·

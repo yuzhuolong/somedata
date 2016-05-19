@@ -7,13 +7,13 @@
 \usepackage{url}
 \urldef{\mailsa}\path|{alfred.hofmann, ursula.barth, ingrid.haas, frank.holzwarth,|
 \urldef{\mailsb}\path|anna.kramer, leonie.kunz, christine.reiss, nicole.sator,|
-\urldef{\mailsc}\path|erika.siebert-cole, peter.strasser, lncs}@springer.com|    
+\urldef{\mailsc}\path|erika.siebert-cole, peter.strasser, lncs}@springer.com|
 \newcommand{\keywords}[1]{\par\addvspace\baselineskip
 \noindent\keywordname\enspace\ignorespaces#1}
 
 
 \begin{document}
-  \title{ABC: A Method to Protect the Security of Your Smart-phone}
+  \title{Invisible-Shield-ABC: A Method to Protect the Security of Your Smart-phone}
   \author{Yu Zhuolong\inst{1} \and Guo Hansong\inst{2}}
   \institute{University of Science and Technology of China}
   \maketitle
@@ -54,16 +54,20 @@
 \label{fig:example}
 \end{figure}
 
-    In the smart-phone's side, ABC firstly acquires the accelerometer data and gyroscope data from smart-phones, which are organized in the form of triples(x, y, z) with corresponding timestamps respectively. Then we extract segments from the sensor data time series we obtain in the former step. In the third step, we compute a feature vector for each segment, which consists discriminative cues both in time-domain and frequency-domain. Finally, ABC constructs a classifier on smart-phone, it tells if there is a Taken-out Action. After a Taken-out Action is recognized, smart-phone side ABC will send a warning bit(signal) to smart-watch side since there is a potential risk that smart-phone is being stolen.
-    
-    Meanwhile, ABC does the same acquir
-    
+     At the smart-phone side, ABC firstly acquires the accelerometer data and gyroscope data from smart-phones, which are organized in the form of triples(x, y, z) with corresponding timestamps respectively. Then we extract segments from the sensor data time series we obtain in the former step. In the third step, we compute a feature vector for each segment, which consists discriminative cues both in time-domain and frequency-domain. Finally, ABC constructs a classifier on smart-phone, it tells if there is a Taken-out Action. After a Taken-out Action is recognized, smart-phone side ABC will send a warning bit(signal) to smart-watch side since there is a potential risk that smart-phone is being stolen.
+
+    Meanwhile, ABC does the same acquisition job and segment job at the smartwatch side. Right after receives the warning message from the smart-phone side, ABC apply dynamic time warping(DTW) algorithm to  measure similarity between two series of sensor data sequences from smart-phone and smartwatch respectively. Based on the similarity measured, ABC judges if the taken-out actions are caused by user themselves with high probability. At last, ABC will arouse a vibration event when a risky action is judged.
+
   %
   \section{Recognize Taken-out Actions}
   %
     %描述一下波形，识别流程
+    In this section, we specifically describe the job ABC implement on smart-phone side. blahblahblah
+
     \subsection{Computation Process}
+
     \subsection{Segment Procedure}
+
     \subsection{Feature Vector Computation}
 
     \subsection{Classification}

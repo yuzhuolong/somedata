@@ -1,6 +1,6 @@
 % fid_new=fopen('still_right2left.csv','w');
 %mydir='C:\Users\jqrghs\Desktop\PMC实验\原始实验数据-肖老师-2016.04.18\左换右+走路左换右\';
-mydir = 'E:\mypaper\data\iphone6_new\still_drop_cut\';
+mydir = 'F:\data\6P\still_drop_cut\';
 left2right=cell(1,500);
 filenames=dir([mydir,'*.csv']);
 
